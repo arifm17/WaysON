@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- MapActivity.java -->
+	<string name="app_name">WaysON</string>
+	<string name="my_position">My Position</string>
+	<string name="departure">Departure</string>
+	<string name="destination">Destination</string>
+	<string name="viapoint">Via-Point</string>
+	<string name="itinerary_markers_title">Route Via-Points</string>
+	
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="wait">Please wait</string>
+	
+	<string name="step">Step</string>
+	<string name="route">Route</string>
+	<string name="loading">Loading</string>
+
+	<!-- main.xml-->
+	<string name="search">Search</string>
+	<string name="feature">Feature</string>
+	
+	<!--  items_list.xml -->
+	<string name="items_list_title">Itinerary:</string>
+	
+	<!-- map_menu-->
+	<string name="menu_departure">Set Departure</string>
+	<string name="menu_destination">Set Destination</string>
+	<string name="menu_viapoint">Add Via-Point</string>
+	<string name="menu_none">Cancel</string>
+	
+	<!-- action_menu-->
+	<string name="action_settings">Setting</string>
+	<string name="action_tracking">Tracking</string>
+	<string name="action_places">Places</string>
+
+	<!-- option_menu-->
+	<string name="menu_itinerary">Itinerary</string>
+	<string name="menu_pois">Features list</string>
+	<string name="menu_cache">Cache Manager</string>
+	<string name="menu_download_view_area">Download view area</string>
+	<string name="menu_clear_view_area">Clear view area</string>
+	<string name="menu_cache_usage">Cache usage</string>
+	<string name="menu_tile">Tile Provider</string>
+	<string name="menu_route">Route Provider</string>
+	<string name="menu_route_osrm">OSRM - Car</string>
+	<string name="menu_route_graphhopper_fastest">GraphHopper - Car</string>
+	<string name="menu_route_graphhopper_bicycle">GraphHopper - Bicycle</string>
+	<string name="menu_route_graphhopper_pedestrian">GraphHopper - Pedestrian</string>
+	<string name="menu_route_google">Google - Car</string>
+
+	<!-- style_item_menu-->
+	<string name="style_item_menu_cut">Delete</string>
+	<string name="style_item_menu_none">Cancel</string>
+	
+	<!-- style_option_menu-->
+	<string name="style_option_menu_new">New Style</string>
+
+    <!-- Login and Register-->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+	<string name="username">Username</string>
+	<string name="fullname">Fullname</string>
+	<string name="email">Email</string>
+	<string name="password">Password</string>
+    <string name="linkToLogin">Already registered! Login Here.</string>
+    <string name="linkToRegister">Not a member? Sign up now.</string>
+
+	<!-- Navigation Drawer -->
+	<string name="openDrawer">Open Drawer</string>
+	<string name="closeDrawer">Close Drawer</string>
+	<string name="map">Map</string>
+	<string name="friends">Friends</string>
+	<string name="places">Places</string>
+	<string name="about">About</string>
+	<string name="exit">Exit</string>
+	<string-array name="drawer_titles">
+		<item>Profile</item>
+		<item>Friends</item>
+		<item>Location Point</item>
+		<item>Messages</item>
+	</string-array>
+	<string-array name="drawer_icons">
+		<item>@drawable/ic_action_person</item>
+		<item>@drawable/ic_action_add_person</item>
+		<item>@drawable/ic_action_place</item>
+		<item>@drawable/ic_action_about</item>
+		<item>@drawable/exit</item>
+	</string-array>
+
+	<!-- Social Network-->
+	<string name="chat">Chat</string>
+	<string name="update">Update</string>
+	<string name="confirm">Confirm</string>
+	<string name="delete">Delete</string>
+	<string name="send">Send</string>
+	<string name="hintUpdate">Whats on your mind?</string>
+	<string name="typeMessage">Type your message</string>
+
+	<string name="selectPOI">Select POI</string>
+</resources>
